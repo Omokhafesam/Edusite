@@ -1,0 +1,7 @@
+const formopenbtn = document.querySelector("#form-open"),
+home = document.querySelector(".home"),
+form_container = document.querySelector(".form_container"),
+form_CloseBtn = document.querySelector(".form_close"),
+signBtn = document.querySelector("#signup"),
+loginBtn = document.querySelector("signup"),
+pwshowhide = document.querySelectorAll(".pw_hide"),
