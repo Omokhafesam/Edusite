@@ -7,8 +7,8 @@ a {
 
 body {
     height: 100vh;
-    background-color: #000;
-    background-image: url('/pix/download.jpeg');
+    background-color: #524d4d;
+    background-image: url('/woman-writting-maroc-960x395.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -157,7 +157,7 @@ header {
     width: 100%;
     border: none;
     outline: none;
-    padding: 0 30px;
+    padding: 0 10px;
     color: #333;
     transition: all 0.2 ease;
     border-bottom: 1.5px solid #aaaa;
